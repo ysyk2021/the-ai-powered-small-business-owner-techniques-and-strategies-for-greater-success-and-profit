@@ -1,5 +1,3 @@
-Chapter 2: Understanding AI in Small Business
-=============================================
 
 In this chapter, we will explore the basics of AI in small business. This includes a historical overview of AI in small business, the different types of AI used in small business, and how AI works in small business.
 

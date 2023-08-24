@@ -1,5 +1,3 @@
-How AI Works in Small Business
-=============================================================================
 
 In this chapter, we will explore how AI works in small business. By understanding how AI technologies work, small business owners can make informed decisions about which technologies to implement in their operations.
 

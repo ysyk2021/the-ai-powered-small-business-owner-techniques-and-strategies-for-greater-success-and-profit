@@ -1,5 +1,3 @@
-Chapter 7: Managing AI for Small Business Owners
-================================================
 
 In this chapter, we will discuss how small business owners can effectively manage AI technologies in their operations. This includes considerations for data management, ensuring transparency and accountability, and addressing potential bias.
 

@@ -1,5 +1,3 @@
-Developing an AI Strategy
-===============================================================================
 
 In this chapter, we will discuss how small business owners can develop an AI strategy for their operations. Developing a clear strategy is essential for successfully implementing AI technologies and maximizing their benefits.
 

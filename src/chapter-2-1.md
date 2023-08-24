@@ -1,5 +1,3 @@
-Historical Overview of AI in Small Business
-==========================================================================================
 
 In this chapter, we will explore the historical overview of AI in small business. While AI technologies have been around for several decades, their adoption in small businesses has been relatively recent.
 

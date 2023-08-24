@@ -1,5 +1,3 @@
-Emerging trends
-==================================================================
 
 In this chapter, we will explore the emerging trends in AI for small business owners and how they can leverage these technologies for greater success and profitability.
 

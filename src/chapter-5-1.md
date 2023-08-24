@@ -1,5 +1,3 @@
-Financial Management
-=============================================================================
 
 In this chapter, we will explore the various applications of AI for small business owners in financial management and how they can leverage these technologies to optimize their finances.
 

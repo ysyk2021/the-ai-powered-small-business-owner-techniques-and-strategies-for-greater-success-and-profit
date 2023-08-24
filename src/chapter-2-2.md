@@ -1,5 +1,3 @@
-Types of AI in Small Business
-============================================================================
 
 In this chapter, we will explore the different types of AI used in small business. By understanding the various types of AI, small business owners can make informed decisions about which technologies to implement in their operations.
 
@@ -30,5 +28,4 @@ Conclusion
 In conclusion, there are several types of AI that small businesses can use to enhance their operations. By leveraging machine learning, natural language processing, and robotics, small business owners can save time and resources while driving greater success and profitability.
 
 It is important for small business owners to carefully consider the potential benefits and challenges of using AI technologies and take proactive steps to ensure responsible use and ethical considerations. By doing so, small business owners can harness the full power of AI to drive greater success and profitability in their businesses.
-
 

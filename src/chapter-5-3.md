@@ -1,5 +1,3 @@
-Operations and Logistics
-=================================================================================
 
 In this chapter, we will discuss the applications of AI technologies in operations and logistics for small business owners. AI technologies can provide significant benefits in these areas, including increased efficiency, productivity, and cost savings.
 

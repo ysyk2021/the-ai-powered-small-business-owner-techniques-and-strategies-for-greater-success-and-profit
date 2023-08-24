@@ -1,5 +1,3 @@
-Legal Considerations
-===========================================================================
 
 In this chapter, we will explore some of the legal considerations that small business owners should be aware of when using AI technologies.
 

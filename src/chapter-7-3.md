@@ -1,5 +1,3 @@
-Addressing Potential Bias
-===========================================================================
 
 In this chapter, we will discuss how small business owners can address potential bias when using AI technologies in their operations. Bias is a common concern associated with the use of AI technologies, and it is important for small business owners to take proactive steps to identify and address any biases that may exist.
 

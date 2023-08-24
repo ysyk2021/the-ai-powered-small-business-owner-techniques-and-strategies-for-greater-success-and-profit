@@ -1,5 +1,3 @@
-Overcoming Resistance to Change
-=====================================================================================
 
 In this chapter, we will discuss how small business owners can overcome resistance to change when implementing AI technologies in their operations. Resistance to change is a common challenge that can hinder the successful integration of new technologies.
 

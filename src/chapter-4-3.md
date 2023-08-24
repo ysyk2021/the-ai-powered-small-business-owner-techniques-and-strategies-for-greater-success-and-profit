@@ -1,5 +1,3 @@
-Privacy and Security Concerns
-====================================================================================
 
 In this chapter, we will explore some of the challenges of using AI for small business owners, with a particular focus on privacy and security concerns.
 
