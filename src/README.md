@@ -12,3 +12,7 @@ Throughout the book, we'll emphasize the importance of ethical considerations wh
 In short, "The AI-Powered Small Business Owner" is a comprehensive guidebook for anyone interested in using machine learning to grow their small business. Whether you're a startup or an established business, this book will provide you with the knowledge and tools you need to thrive in the rapidly evolving world of AI-powered small business ownership.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
