@@ -1,5 +1,4 @@
-Chapter: Legal Considerations
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 When implementing AI-powered technologies, small business owners must navigate and comply with various legal considerations. This chapter explores the key legal aspects that small business owners need to address to ensure legal compliance and mitigate potential risks.
 

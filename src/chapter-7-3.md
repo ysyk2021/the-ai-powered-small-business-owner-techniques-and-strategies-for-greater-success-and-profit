@@ -1,5 +1,4 @@
-Chapter: Addressing Potential Bias
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Addressing potential bias is a critical aspect of utilizing AI technologies as a small business owner. This chapter explores the importance of tackling bias in AI applications and provides techniques and strategies to mitigate bias effectively.
 

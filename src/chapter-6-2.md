@@ -1,5 +1,4 @@
-Chapter: Overcoming Resistance to Change
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Change is an inevitable part of growth and success for small businesses, especially with the integration of AI technology. However, many business owners face resistance to change from employees, customers, or even themselves. This chapter explores strategies and techniques to overcome resistance to change and embrace the power of AI for greater success and profit.
 

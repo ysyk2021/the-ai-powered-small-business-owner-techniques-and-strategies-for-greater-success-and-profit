@@ -1,5 +1,4 @@
-Chapter: Ensuring Transparency and Accountability
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Transparency and accountability are essential principles for small business owners utilizing AI technologies. This chapter explores the significance of transparency and accountability in AI-powered small businesses and provides techniques and strategies to ensure their effective implementation.
 

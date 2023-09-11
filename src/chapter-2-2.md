@@ -1,5 +1,4 @@
-Chapter: Types of AI in Small Business
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) encompasses various technologies and techniques that can benefit small businesses in different ways. This chapter explores the different types of AI commonly used in small businesses, providing insights into their applications and potential advantages.
 

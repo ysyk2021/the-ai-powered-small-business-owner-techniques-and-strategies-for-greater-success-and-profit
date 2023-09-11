@@ -1,5 +1,4 @@
-Chapter: How AI Works in Small Business
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has become an essential tool for small businesses, offering a multitude of capabilities to improve operations and drive success. This chapter explores how AI works in small businesses, providing insights into the underlying technologies and strategies for effective implementation.
 

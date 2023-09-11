@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As small business owners embrace AI technology to drive success and profit, it is crucial to address the ethical implications that arise. This chapter explores key ethical considerations when utilizing AI and provides strategies and techniques for small business owners to navigate these challenges and ensure responsible and ethical use of AI.
 

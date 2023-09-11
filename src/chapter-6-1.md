@@ -1,5 +1,4 @@
-Chapter: Developing an AI Strategy
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Developing a comprehensive AI strategy is essential for small business owners to successfully integrate AI technology into their operations. This chapter explores critical considerations when developing an AI strategy, outlining the key elements and strategic steps involved.
 

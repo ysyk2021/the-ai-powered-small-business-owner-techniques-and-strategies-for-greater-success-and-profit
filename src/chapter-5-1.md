@@ -1,5 +1,4 @@
-Chapter: Financial Management
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Financial management is a vital aspect of running a small business powered by AI. This chapter explores the techniques and strategies that AI-powered small business owners can employ to effectively manage their finances and drive greater success and profit.
 

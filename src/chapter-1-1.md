@@ -1,5 +1,4 @@
-Chapter: Overview of the Book
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Welcome to "The AI-Powered Small Business Owner: Techniques and Strategies for Greater Success and Profit." This book serves as a comprehensive guide for small business owners looking to harness the power of artificial intelligence (AI) to achieve unprecedented levels of success and profitability.
 

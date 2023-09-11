@@ -1,5 +1,4 @@
-Chapter: Enhanced Decision-Making
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Making informed decisions is crucial for the success and profitability of small businesses. In this chapter, we explore how artificial intelligence (AI) can empower small business owners with enhanced decision-making capabilities, enabling them to navigate challenges, seize opportunities, and drive greater success and profit.
 
